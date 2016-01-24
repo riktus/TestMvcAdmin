@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PicturePlayer" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\AVolkov\\Desktop\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\AVolkov\\Desktop\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext-Web.config Connection String" description="" value="Data Source=tcp:riktus.database.windows.net,1433;Initial Catalog=PicturePlayer;User ID=testServer@riktus;Password=password-test123" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\AVolkov\\Desktop\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="appolloprotest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\fantasy_riktus\\Documents\\Visual\ Studio\ 2015\\Projects\\WebSites\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\fantasy_riktus\\Documents\\Visual\ Studio\ 2015\\Projects\\WebSites\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext-Web.config Connection String" description="PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext Строка подключения в web.config, используемая приложением для доступа к базе данных." value="PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\fantasy_riktus\\Documents\\Visual\ Studio\ 2015\\Projects\\WebSites\\PicturePlayerWeb\\PicturePlayerWeb\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PicturePlayerWeb.DataContext.Contexts.MsSqlModelContext']/@connectionString" />
+  </parameter>
+</parameters>

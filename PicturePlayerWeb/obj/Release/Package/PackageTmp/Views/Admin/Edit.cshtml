@@ -1,0 +1,59 @@
+﻿@model PicturePlayerWeb.Entity.PictureElement
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="panel">
+    <div class="panel-heading">
+        <h2>Редактирование изображения: @Model.Name</h2>
+    </div>
+</div>
+
+
+@using (Html.BeginForm("Edit", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+<div class="panel-body">
+    <div class="row">
+        <div class="form-group col-lg-5">
+            @Html.HiddenFor(m => m.Id)
+        </div>
+    </div>
+        <div class="row">
+            <div class="form-group col-lg-5">
+                <label>Название</label>
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-lg-5">
+                <label>Время</label>
+                @Html.TextBoxFor(m => m.StartTime, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-lg-5">
+                <label>Загрузить новое изображение</label>
+                @Html.TextBoxFor(m => m.Link,
+                                    new { type = "file" }
+                                 )
+            </div>
+        </div>
+        @if (Model.ImageData != null)
+        {
+        <div class="row">
+            <div class="form-group col-lg-5">
+                <img src="@Url.Action("GetImage", "Admin", new { pictureId = Model.Id })" />
+            </div>
+        </div>
+        }
+</div>
+<div class="panel-footer">
+    <input type="submit" value="Сохранить" class="btn btn-primary" />
+    @Html.ActionLink("Отмена", "Index", null, new { @class = "btn btn-default" })
+</div>
+}
+
+
+

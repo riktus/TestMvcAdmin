@@ -1,0 +1,5 @@
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Release\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Release\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Release\PicturePlayerWeb.Entity.csprojResolveAssemblyReference.cache
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Release\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Release\PicturePlayerWeb.Entity.pdb

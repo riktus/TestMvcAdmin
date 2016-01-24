@@ -1,0 +1,8 @@
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Debug\PicturePlayerWeb.Entity.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Debug\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\bin\Debug\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.Entity\obj\Debug\PicturePlayerWeb.Entity.pdb

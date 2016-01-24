@@ -1,0 +1,145 @@
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\ApplicationInsights.config
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\csc.exe
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\vbc.exe
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.dll.config
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Newtonsoft.Json.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Common.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Mvc.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.DataContext.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.Entity.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Helpers.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Mvc.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Razor.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\WebActivatorEx.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.DataContext.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.Entity.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Common.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Mvc.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Razor.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Helpers.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Mvc.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\Newtonsoft.Json.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.csprojResolveAssemblyReference.cache
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\ApplicationInsights.config
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\csc.exe
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\vbc.exe
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.dll.config
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Newtonsoft.Json.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Common.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Mvc.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.DataContext.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Helpers.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Mvc.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Razor.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\WebActivatorEx.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.DataContext.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Common.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.Mvc.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Razor.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Helpers.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Mvc.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\Newtonsoft.Json.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.csprojResolveAssemblyReference.cache
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb\obj\Debug\PicturePlayerWeb.pdb

@@ -1,0 +1,12 @@
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\PicturePlayerWeb.DataContext.dll.config
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\PicturePlayerWeb.DataContext.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\PicturePlayerWeb.DataContext.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\EntityFramework.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\EntityFramework.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Release\PicturePlayerWeb.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Release\PicturePlayerWeb.DataContext.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Release\PicturePlayerWeb.DataContext.pdb

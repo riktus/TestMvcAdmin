@@ -1,0 +1,24 @@
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.dll.config
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.Entity.pdb
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.dll
+C:\Users\fantasy_riktus\Documents\Visual Studio 2015\Projects\WebSites\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.dll.config
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.DataContext.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.Entity.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\PicturePlayerWeb.Entity.pdb
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.dll
+C:\Users\AVolkov\Desktop\PicturePlayerWeb\PicturePlayerWeb.DataContext\obj\Debug\PicturePlayerWeb.DataContext.pdb
